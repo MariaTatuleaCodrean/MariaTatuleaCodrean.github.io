@@ -1245,7 +1245,9 @@ input[type="radio"] + label:before {
       width: 100%; }
 .image.object {
     display: block; /* Make it a block element so it can take up the specified width */
-    max-width: 300px; /* Adjust as needed */
+    max-width: 300px;      /* Adjust as needed */
+    max-height: 500px;     /* Adjust as needed */
+
     margin: 0 auto; /* Centers the span if the width is less than 100% */
 }
 .image.object img {
