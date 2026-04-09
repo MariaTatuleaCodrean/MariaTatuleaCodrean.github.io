@@ -11,19 +11,11 @@ sidebar (scroll down to see what I mean) and an accordion-style menu. Not the us
 page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
 template I'd change it up a little. Enjoy :)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
 AJ
 aj@lkn.io | @ajlkn
 
 
 Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
